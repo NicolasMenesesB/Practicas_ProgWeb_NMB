@@ -1,0 +1,74 @@
+.fondo {
+    background: linear-gradient(90deg, #C8FFC8 10%, #6464FF 90%);
+}
+body{
+    font-family: Arial;
+}
+table{
+    width: 1550px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+.Titulo{
+    background-color: #bbbbbb;
+
+    font-size: 40px;
+    text-align: center;
+    height: 100px;
+    width: 1500px;
+    justify-content: center;
+    align-content: center;
+    background-clip: padding-box;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-image: url(pattern.png);
+    border-image-slice: 27;
+    border-width: 27px;
+    border-style: solid;
+    border-image-width: 27px;
+    border-image-repeat:stretch round;
+    flex-direction: column;
+    display: flex;
+}
+.cabeza{
+    background: linear-gradient(90deg, #668175 10%, #3e428c 90%); 
+
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 1500px;
+}
+.cuerpo{
+    background: linear-gradient(90deg, #b9d5c5 10%, #9095dc 90%);
+
+    margin-top: 50px;
+    width: 1500px;
+    height: 300px;
+    text-align: justify;
+}
+.imagen{
+    height: 250px;
+}
+.pie{
+    background: linear-gradient(90deg, #b9d5c5 10%, #9095dc 90%);
+    margin-top: 50px;
+    width: 1500px;
+}
+.link{
+    height: 100px;
+    text-align: center;
+}
+a:link {
+    background-color: #990000;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+a:hover {
+    background-color: #000099;
+}
+a:visited {
+    color: white;
+}
