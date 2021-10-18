@@ -1,0 +1,175 @@
+body {
+    width: 900px;
+    font-family: verdana;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div1 {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #000099 20%, #00aaff 70%);
+    color: white;
+}
+
+.div2 {
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.div3 {
+    padding: 10px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.div4 {
+    font-size: 20px;
+    text-align: center;
+    background-color: #cccccc;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.div5 {
+    color: white;
+    background-color: #000099;
+    margin-top: 15px;
+    display: flex;
+}
+
+.div6 {
+    margin: auto;
+    font-size: 20px;
+}
+
+.div7 {
+    margin-top: 15px;
+    display: flex;
+    text-align: center;
+}
+
+.teclado {
+    margin: auto;
+    padding: 20px;
+    background: linear-gradient(40deg, #66aa55 20%, #bbccbb 70%);
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.raton {
+    margin: auto;
+    padding: 20px;
+    background: linear-gradient(40deg, #66aa55 20%, #bbccbb 70%);
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.monitor {
+    margin: auto;
+    padding: 20px;
+    background: linear-gradient(40deg, #66aa55 20%, #bbccbb 70%);
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.teclado img {
+    vertical-align: middle;
+}
+
+.raton img {
+    vertical-align: middle;
+}
+
+.monitor img {
+    vertical-align: middle;
+}
+
+.div9 {
+    width: 150px;
+    height: 150px;
+}
+
+.div10 {
+    margin-top: 15px;
+    display: flex;
+    margin: auto;
+    font-size: 15px;
+}
+
+.div11 {
+    margin-top: 15px;
+    display: flex;
+    font-weight: bold;
+}
+
+.div12 { 
+    margin: auto;
+    text-align: center;
+}
+
+.div13 {
+    margin-top: 10px;
+}
+
+.div14 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form div {
+    display: flex;
+}
+
+.form-label {
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    text-align: right;
+}
+
+.form-input, .radio-options {
+    margin: 5px;
+    width: 250px;
+    border-color: blue;
+}
+
+.radio-options {
+    display: flex;
+    flex-direction: column; 
+    margin: 10px;
+}
+label {
+    width: 100px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+
+.div15 {
+    font-size: 15px;
+    background-color: #cccccc;
+    height: 30px;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
+.pie {
+    margin-left: 15px;
+}
