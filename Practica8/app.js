@@ -21,6 +21,10 @@ const closeConnection = () => {
     connection.end()
 }
 
+app.get('/professorform', (req, res) => {
+    res.render('professorform');
+})
+
 app.get('/professors', (req, res) => {
     openConnection()
 
