@@ -1,0 +1,7 @@
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\obj\Debug\Practica 1 Ordenamiento y BUsqueda.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\obj\Debug\Practica 1 Ordenamiento y BUsqueda.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\bin\Debug\Practica 1 Ordenamiento y BUsqueda.exe.config
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\bin\Debug\Practica 1 Ordenamiento y BUsqueda.exe
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\bin\Debug\Practica 1 Ordenamiento y BUsqueda.pdb
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\obj\Debug\Practica 1 Ordenamiento y BUsqueda.exe
+C:\Users\Nicolas\Desktop\3er Semestre ISI\Practica 1 Ordenamiento y BUsqueda\Practica 1 Ordenamiento y BUsqueda\obj\Debug\Practica 1 Ordenamiento y BUsqueda.pdb
